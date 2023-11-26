@@ -1,0 +1,11 @@
+img{
+    float: right;
+    position: absolute;
+    padding: 2px;
+    margin: 50px;
+}
+p1{
+    margin: 50px;
+    text-align: center;
+    position: relative;
+}
